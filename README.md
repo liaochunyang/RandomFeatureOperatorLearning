@@ -39,27 +39,16 @@ numerical experiments for several operator learning benchmarks, including:
 
 <p align="center">
   <img src="./Darcy/Darcy1_output.png" width="33%">
-  <img src="./Darcy/Darcy_prediction.png" width="33%">
-  <img src="./Darcy/Darcy_error.png" width="33%">
+  <img src="./Darcy/Darcy1_prediction.png" width="33%">
+  <img src="./Darcy/Darcy1_error.png" width="33%">
 </p>
 
 <p align="center">
   <strong>Figure 1. </strong> Numerical results of Darcy Flow. From left to right: true output, random feature prediction, point-wise error.
 </p>
 
-#### Darcy Flow
 
-<p align="center">
-  <img src="./Darcy/Darcy1_output.png" width="33%">
-  <img src="./Darcy/Darcy_prediction.png" width="33%">
-  <img src="./Darcy/Darcy_error.png" width="33%">
-</p>
-
-<p align="center">
-  <strong>Figure 1. </strong> Numerical results of Darcy Flow. From left to right: true output, random feature prediction, point-wise error.
-</p>
-
-#### Darcy Flow
+#### Helmholtz Equation
 
 <p align="center">
   <img src="./Helmholtz/Helmholtz_output.png" width="33%">
