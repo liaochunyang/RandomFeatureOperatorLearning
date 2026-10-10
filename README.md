@@ -34,3 +34,39 @@ numerical experiments for several operator learning benchmarks, including:
 - [`Helmholtz/`](./Helmholtz/) — Helmholtz Equation
 - [`Navier Stokes Equation/`](./Navier_Stokes/) — Navier-Stokes Equation
 - [`Structural Mechanics/`](./Structural_Mechanics/) — Structural Mechanics
+
+#### Darcy Flow
+
+<p align="center">
+  <img src="./Darcy/Darcy1_output.png" width="33%">
+  <img src="./Darcy/Darcy_prediction.png" width="33%">
+  <img src="./Darcy/Darcy_error.png" width="33%">
+</p>
+
+<p align="center">
+  <strong>Figure 1. </strong> Numerical results of Darcy Flow. From left to right: true output, random feature prediction, point-wise error.
+</p>
+
+#### Darcy Flow
+
+<p align="center">
+  <img src="./Darcy/Darcy1_output.png" width="33%">
+  <img src="./Darcy/Darcy_prediction.png" width="33%">
+  <img src="./Darcy/Darcy_error.png" width="33%">
+</p>
+
+<p align="center">
+  <strong>Figure 1. </strong> Numerical results of Darcy Flow. From left to right: true output, random feature prediction, point-wise error.
+</p>
+
+#### Darcy Flow
+
+<p align="center">
+  <img src="./Helmholtz/Helmholtz_output.png" width="33%">
+  <img src="./Helmholtz/Helmholtz_prediction.png" width="33%">
+  <img src="./Helmholtz/Helmholtz_error.png" width="33%">
+</p>
+
+<p align="center">
+  <strong>Figure 2. </strong> Numerical results of Helmholtz. From left to right: true output, random feature prediction, point-wise error.
+</p>
